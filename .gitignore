@@ -1,5 +1,4 @@
 # Compiled SDK libraries, models & binaries — the full SDK is on the Releases page
-*.aar
 *.so
 *.so.*
 *.dll
